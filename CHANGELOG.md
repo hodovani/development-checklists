@@ -8,4 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added check lists as ODT files
 
-[1.0.0]: https://github.com/hendrik-scholz/development-checklists/releases/tag/v1.0.0
+[1.0.0]: https://github.com/hendrik-scholz/development-checklists/releases/tag/1.0.0
