@@ -27,5 +27,7 @@ This checklist guides you through the process of releasing a new version of your
 # References
 
 https://codeburst.io/think-think-think-before-you-code-52890a917ffd
+
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
+
 https://www.askthepilot.com/checklists/
