@@ -4,7 +4,7 @@ development-checklists were inspired by checklists in aviation. If checklists ca
 
 # Checklists
 
-These checklists are guidelines and do not cover all the different aspects of the software development life cycle. Feel free to adapt the checklists to you own needs.
+These checklists are guidelines and do not cover all the different aspects of the software development life cycle. Feel free to adapt the checklists to your own needs.
 
 ## DevelopmentChecklist
 
