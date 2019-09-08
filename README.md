@@ -14,7 +14,7 @@ This checklist guides you through the process of implementing a new feature or f
 
 We create outlines for your presentations. So why don't we apply a similar concept for planning the features we are going to implement?
 
-This document contains a list of points to think about before implementing a solution. There is some space for your notes, but feel free to get a larger sheet of paper or use a whiteboard for your ideas.
+This document contains a list of points to think about before implementing a new feature. There is some space for your notes, but feel free to get a larger sheet of paper or use a whiteboard for your ideas.
 
 ## DevelopmentProgressSheet
 
