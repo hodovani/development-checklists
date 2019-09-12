@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.6] - 2019-09-12
+### Changed
+- made check for unit tests more precise
+### Added
+- added check in case of hotfix while having an open release branch
+- added check for encoding and character set
+
 ## [1.1.5] - 2019-09-11
 ### Changed
 - made check for merging hotfix / feature branch more precise
@@ -37,7 +44,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added check lists as ODT files
 
-[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.5...HEAD
+[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.6...HEAD
+[1.1.6]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.3...1.1.4
 [1.1.3]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.2...1.1.3
