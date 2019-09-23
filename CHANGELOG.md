@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.9] - 2019-09-23
+### Added
+- added check for responsive web design
+
 ## [1.1.8] - 2019-09-22
 ### Changed
 - changed description of test execution
@@ -56,7 +60,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added check lists as ODT files
 
-[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.8...HEAD
+[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.9...HEAD
+[1.1.9]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.8...1.1.9
 [1.1.8]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.7...1.1.8
 [1.1.7]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.6...1.1.7
 [1.1.6]: https://github.com/hendrik-scholz/development-checklists/compare/1.1.5...1.1.6
