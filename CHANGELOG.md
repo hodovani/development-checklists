@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.10] - 2019-10-31
 ### Changed
-- changed order in which to check uses cases and requirements
+- changed order in which to check use cases and requirements
 
 ## [1.1.9] - 2019-09-23
 ### Added
