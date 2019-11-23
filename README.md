@@ -31,6 +31,10 @@ progress strips. A development progress strip can go through different phases, e
 
 This checklist guides you through the process of releasing a new version of your software.
 
+## Performance Optimization Checklist
+
+This checklist guides you through the performance optimization process of your web app.
+
 # References
 
 https://codeburst.io/think-think-think-before-you-code-52890a917ffd
