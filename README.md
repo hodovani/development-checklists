@@ -27,6 +27,8 @@ The development progress strip was inspired by a flight progress strip. The idea
 If you want to break down the tasks on the development outline and the development progress sheet, you can use development
 progress strips. A development progress strip can go through different phases, e.g. test, implementation, and submitting to the version control system.
 
+![Development Progress Strip Board Draft](/development-progress-strip-board/ui/draft1.png)
+
 ## ReleaseChecklist
 
 This checklist guides you through the process of releasing a new version of your software.
