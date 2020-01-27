@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2020-01-27
+### Changed
+- added checklist items for HTTP status codes
+
 ## [1.4.1] - 2020-01-25
 ### Changed
 - edited wording of input validation checklist items
@@ -80,7 +84,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added check lists as ODT files
 
-[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.4.1...HEAD
+[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.5.0...HEAD
+[1.5.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.4.1...1.5.0
 [1.4.1]: https://github.com/hendrik-scholz/development-checklists/compare/1.4.0...1.4.1
 [1.4.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.2.0...1.3.0
