@@ -1,6 +1,6 @@
 # development-checklists
 
-development-checklists were inspired by checklists in aviation. If checklists can help making flying saver, using checklists during software development can help avoiding common mistakes. For now, the checklists are made for printing. I am planning to provide the checklists in a different format in the future, e.g. as a web app.
+development-checklists were inspired by checklists in aviation. If checklists can help making flying saver, using checklists during software development can help avoiding common mistakes. You can either use the MD files or print out the checklists. If you use the MD files, I recommend using the Visual Studio Code Extension "MarkDown To-Do (Tomas Hubelbauer)" to tick the checkboxes on the lists.
 
 # Checklists
 
