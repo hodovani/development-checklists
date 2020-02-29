@@ -6,6 +6,10 @@ development-checklists were inspired by checklists in aviation. If checklists ca
 
 These checklists are guidelines and do not cover all the different aspects of the software development life cycle. Feel free to adapt the checklists to your own needs.
 
+## BugFixProgressSheet
+
+This checklist guides you through the process while fixing a bug.
+
 ## DevelopmentChecklist
 
 This checklist guides you through the process of implementing a new feature or fixing a bug. The other checklists are referenced in here.
@@ -16,9 +20,13 @@ We create outlines for our presentations. So why don't we apply a similar concep
 
 This document contains a list of points to think about before implementing a new feature. There is some space for your notes, but feel free to get a larger sheet of paper or use a whiteboard for your ideas.
 
-## DevelopmentProgressSheet
+## DevelopmentProgressSheetBackend
 
-This checklist guides you through the process while implementing a new feature or fixing a bug.
+This checklist guides you through the process while implementing a new feature in the backend.
+
+## DevelopmentProgressSheetFrontend
+
+This checklist guides you through the process while implementing a new feature in the frontend.
 
 ## DevelopmentProgressStrips
 
@@ -31,7 +39,7 @@ progress strips. A development progress strip can go through different phases, e
 
 ## ReleaseChecklist
 
-This checklist guides you through the process of releasing a new version of your software.
+This checklist guides you through the process of releasing a new version of your web app.
 
 ## Performance Optimization Checklist
 
