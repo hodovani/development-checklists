@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.2] - 2020-03-01
+### Fixed
+- fixed headings in README file
+
 ## [1.7.1] - 2020-02-29
 ### Fixed
 - fixed typos in CHANGELOG file
@@ -99,7 +103,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added checklists as ODT files
 
-[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.0...HEAD
+[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.2...HEAD
+[1.7.2]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.1...1.7.2
+[1.7.1]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.0...1.7.1
 [1.7.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.4.1...1.5.0
