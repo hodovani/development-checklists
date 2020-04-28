@@ -37,19 +37,25 @@ progress strips. A development progress strip can go through different phases, e
 
 ![Development Progress Strip Board Draft](/development-progress-strip-board/ui/draft1.png)
 
+## Performance Optimization Checklist
+
+This checklist guides you through the performance optimization process of your web app.
+
 ## Release Checklist
 
 This checklist guides you through the process of releasing a new version of your web app.
 
-## Performance Optimization Checklist
+## Repository Checklist
 
-This checklist guides you through the performance optimization process of your web app.
+This checklist guides you through the process of forking a repository and improving its quality. You can also use this checklist if you want to improve the quality of your own repository.
 
 # References
 
 https://codeburst.io/think-think-think-before-you-code-52890a917ffd
 
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
+
+https://www.freecodecamp.org/news/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b/
 
 https://www.askthepilot.com/checklists/
 
