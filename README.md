@@ -1,18 +1,25 @@
 # Software Development Checklists
 
-This project was inspired by checklists in aviation. If checklists can help making flying saver, using checklists during software development can help avoiding common mistakes. You can either use the MD files or print out the checklists. If you use the MD files, I recommend using the Visual Studio Code Extension "MarkDown To-Do (Tomas Hubelbauer)" to tick the checkboxes on the lists.
+This project was inspired by checklists in aviation. If checklists can help making flying saver, using checklists during software development can help avoiding common mistakes. You can either use the MD files or print out the checklists. If you use the MD files, I recommend using the Visual Studio Code Extension [MarkDown To-Do (Tomas Hubelbauer)](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-todo) to tick the checkboxes on the lists.
 
 # Checklists
 
 These checklists are guidelines and do not cover all the different aspects of the software development life cycle. Feel free to adapt the checklists to your own needs.
 
+The screenshots you can see here contain only parts of the checklists in this repository. If you want to see all items on a checklist,
+open that checklist.
+
 ## Bug Fix Progress Sheet
 
 This checklist guides you through the process while fixing a bug.
 
+![Bug Fix Progress Sheet](images/bugfixProgressSheet.png "Bug Fix Progress Sheet")
+
 ## Development Checklist
 
 This checklist guides you through the process of implementing a new feature or fixing a bug. The other checklists are referenced in here.
+
+![Development Checklist](images/developmentChecklist.png "Development Checklist")
 
 ## Development Outline
 
@@ -20,25 +27,37 @@ We create outlines for our presentations. So why don't we apply a similar concep
 
 This document contains a list of points to think about before implementing a new feature. There is some space for your notes, but feel free to get a larger sheet of paper or use a whiteboard for your ideas.
 
+![Development Outline](images/developmentOutline.png "Development Outline")
+
 ## Development Progress Sheet Backend
 
 This checklist guides you through the process while implementing a new feature in the backend.
+
+![Development Progress Sheet Backend](images/developmentProgressSheetBackend.png "Development Progress Sheet Backend")
 
 ## Development Progress Sheet Frontend
 
 This checklist guides you through the process while implementing a new feature in the frontend.
 
+![Development Progress Sheet Frontend](images/developmentProgressSheetFrontend.png "Development Progress Sheet Frontend")
+
 ## Performance Optimization Checklist
 
 This checklist guides you through the performance optimization process of your web app.
+
+![Performance Optimization Checklist](images/performanceOptimizationChecklist.png "Performance Optimization Checklist")
 
 ## Release Checklist
 
 This checklist guides you through the process of releasing a new version of your web app.
 
+![Release Checklist](images/releaseChecklist.png "Release Checklist")
+
 ## Repository Checklist
 
 This checklist guides you through the process of forking a repository and improving its quality. You can also use this checklist if you want to improve the quality of your own repository.
+
+![Repository Checklist](images/repositoryChecklist.png "Repository Checklist")
 
 # References
 

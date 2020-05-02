@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.10.0] - 2020-05-02
 ### Removed
 - removed section about Development Progress Strips
+### Added
+- added images to README file
 
 ## [1.9.0] - 2020-04-28
 ### Added
