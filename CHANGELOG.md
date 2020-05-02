@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.0] - 2020-05-02
+### Removed
+- removed section about Development Progress Strips
+
 ## [1.9.0] - 2020-04-28
 ### Added
 - added document containing repository checklist
@@ -113,7 +117,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - added checklists as ODT files
 
-[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.9.0...HEAD
+[Unreleased]: https://github.com/hendrik-scholz/development-checklists/compare/1.10.0...HEAD
+[1.10.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.9.0...1.10.0
 [1.9.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.8.0...1.9.0
 [1.8.0]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.2...1.8.0
 [1.7.2]: https://github.com/hendrik-scholz/development-checklists/compare/1.7.1...1.7.2

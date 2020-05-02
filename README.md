@@ -28,15 +28,6 @@ This checklist guides you through the process while implementing a new feature i
 
 This checklist guides you through the process while implementing a new feature in the frontend.
 
-## Development Progress Strips
-
-The development progress strip was inspired by a flight progress strip. The idea is to keep track of the little changes you have to make to implement a new feature.
-
-If you want to break down the tasks on the development outline and the development progress sheet, you can use development
-progress strips. A development progress strip can go through different phases, e.g. test, implementation, and submitting to the version control system.
-
-![Development Progress Strip Board Draft](/development-progress-strip-board/ui/draft1.png)
-
 ## Performance Optimization Checklist
 
 This checklist guides you through the performance optimization process of your web app.
@@ -58,5 +49,3 @@ https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-6
 https://www.freecodecamp.org/news/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b/
 
 https://www.askthepilot.com/checklists/
-
-https://www.skybrary.aero/index.php/Flight_Progress_Strips
