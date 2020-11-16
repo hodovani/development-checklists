@@ -47,6 +47,12 @@ This checklist guides you through the performance optimization process of your w
 
 ![Performance Optimization Checklist](images/performanceOptimizationChecklist.png "Performance Optimization Checklist")
 
+## Refactoring Checklist
+
+This checklist guides you through the refactoring process.
+
+![Refactoring Checklist](images/refactoringChecklist.png "Refactoring Checklist")
+
 ## Release Checklist
 
 This checklist guides you through the process of releasing a new version of your web app.
