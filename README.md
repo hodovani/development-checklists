@@ -41,6 +41,12 @@ This checklist guides you through the process while implementing a new feature i
 
 ![Development Progress Sheet Frontend](images/developmentProgressSheetFrontend.png "Development Progress Sheet Frontend")
 
+## HTTP Client Checklist
+
+This checklist guides you through the process while adding an HTTP client.
+
+![HTTP Client Checklist](images/httpClientChecklist.png "HTTP Client Checklist")
+
 ## Performance Optimization Checklist
 
 This checklist guides you through the performance optimization process of your web app.
@@ -72,5 +78,7 @@ https://codeburst.io/think-think-think-before-you-code-52890a917ffd
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
 
 https://www.freecodecamp.org/news/how-we-got-a-2-year-old-repo-trending-on-github-in-just-48-hours-12151039d78b/
+
+https://www.restapitutorial.com/httpstatuscodes.html
 
 https://www.askthepilot.com/checklists/
