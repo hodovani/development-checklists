@@ -53,6 +53,12 @@ This checklist guides you through the performance optimization process of your w
 
 ![Performance Optimization Checklist](images/performanceOptimizationChecklist.png "Performance Optimization Checklist")
 
+## Project Setup Checklist
+
+This checklist guides you through the project setup of your project.
+
+![Project Setup Checklist](images/projectSetupChecklist.png "Project Setup Checklist")
+
 ## Refactoring Checklist
 
 This checklist guides you through the refactoring process.
