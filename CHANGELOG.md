@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added check for documentation
 - added check for monitoring
 - added Refactoring Checklist
+- added HTTP Client Checklist
+- added first version of Project Setup Checklist
 - added deployment instructions to Release Checklist
 - added reference to Development Outline to Development Checklist
 ### Removed
